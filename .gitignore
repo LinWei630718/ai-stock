@@ -1,0 +1,18 @@
+# 敏感憑證與 Token
+token.txt
+*.env
+*.pem
+*.key
+
+# Python 快取
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# 系統與編輯器暫存
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
